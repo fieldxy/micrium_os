@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "config": "c",
+        "type_traits": "c"
+    }
+}
